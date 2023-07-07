@@ -1,0 +1,27 @@
+In this lecture I have learnt:
+1. What is a Programming Language
+a.A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. 
+
+2. Why Learn C++ instead of other Programming languages
+A.
+a.Object-Oriented. C++ is an object-oriented programming language which means that the main focus is on objects and manipulations around these objects
+b.Speed
+c.Compiled
+d.Rich Library Support
+e.Pointer Support
+f.Closer to Hardware
+
+3. What is an IDE
+A.An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently.
+
+4. What are High level and Low level languages
+A.High-level languages are human-friendly. They are, thus, very easy to understand and learn by any programmer. Low-level languages are machine-friendly. They are, thus, very difficult to understand and learn by any human.
+5. What happens after we write code
+6. What is a compiler
+
+I have learnt 
+How does a Computer Process 
+BINARY to Decimal It's all O's and 1's
+1- 0001
+2-0010
+3- 0011
